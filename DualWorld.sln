@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3BD2FE89-17B5-A2D5-C8F7-1B1A49C07E91}") = "DualWorld", "Assembly-CSharp.csproj", "{F274671A-519B-E61D-68CC-6C4834C4FA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F274671A-519B-E61D-68CC-6C4834C4FA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F274671A-519B-E61D-68CC-6C4834C4FA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F274671A-519B-E61D-68CC-6C4834C4FA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F274671A-519B-E61D-68CC-6C4834C4FA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
